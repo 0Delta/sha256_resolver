@@ -1,10 +1,12 @@
 sha256_resolver
 ===============
+
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/pkgsite.svg)][goRef]
 
 resolve sha256 by brute-force
 
 * speed example @ Thinkpad X1 Extreme 2018 (Core i7-8750H CPU @ 2.20GHz) + WSL2 (Ubuntu20.04) + go1.16beta1
+
 | target | time | 
 |-------:|:------|
 | a | 0:00.03 |
