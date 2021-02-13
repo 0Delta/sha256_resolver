@@ -53,4 +53,4 @@ Author:
 0Δ(0deltast@gmail.com)
 
 
-[goRef](https://pkg.go.dev/github.com/0Delta/sha256_resolver)
+[goRef]:https://pkg.go.dev/github.com/0Delta/sha256_resolver
